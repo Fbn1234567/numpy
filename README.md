@@ -1,8 +1,8 @@
-# NumPy Practice Notebook
+# NumPy Practice
 
 ## Description
 
-A Google Colab notebook demonstrating the basic concepts of NumPy and its use in numerical data analysis.
+A Python program demonstrating basic NumPy operations for numerical data analysis.
 
 ## Features
 
@@ -10,38 +10,35 @@ A Google Colab notebook demonstrating the basic concepts of NumPy and its use in
 * Check array dimensions and data types
 * Perform indexing and slicing
 * Reshape arrays
-* Generate arrays using `zeros()`, `ones()`, `arange()`, and `linspace()`
+* Create arrays using `zeros()`, `ones()`, `arange()`, and `linspace()`
 * Perform mathematical operations
-* Demonstrate vectorized operations
+* Perform vectorized operations
 * Use boolean masking
 * Demonstrate broadcasting
-* Perform aggregate operations such as sum, mean, min, max, and median
+* Calculate sum, mean, minimum, maximum, and median
 
 ## Requirements
 
 * Python 3
 * NumPy
-* Google Colab
 
 ## Files
 
-* numpy_practice.ipynb
+* untitled2.py
 
 ## How to Run
 
-Open the notebook in Google Colab and run each cell from top to bottom.
+```bash
+python numpy.py
+```
 
 ## Concepts Used
 
 * NumPy Arrays
-* Array Dimensions
-* Data Types
-* Indexing
-* Slicing
-* Reshaping
-* Array Creation Functions
+* Indexing and Slicing
+* Array Reshaping
 * Mathematical Operations
-* Vectorization
+* Vectorized Operations
 * Boolean Masking
 * Broadcasting
 * Aggregate Functions
