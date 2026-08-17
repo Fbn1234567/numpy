@@ -29,7 +29,7 @@ A Python program demonstrating basic NumPy operations for numerical data analysi
 ## How to Run
 
 ```bash
-python numpy.py
+python untitled2.py
 ```
 
 ## Concepts Used
